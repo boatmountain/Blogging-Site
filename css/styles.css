@@ -1,4 +1,6 @@
 .about {
   border: red;
+  border-color: red;
+  border-width: medium;
   font-style: italic;
 }
